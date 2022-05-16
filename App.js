@@ -6,6 +6,7 @@ import Animation3 from './Components/Animation3';
 import Animation4 from './Components/Animation4';
 import Animation5 from './Components/Animation5';
 import Animation6 from './Components/Animation6';
+import Animation7 from './Components/Animation7';
 
 
 
@@ -13,7 +14,7 @@ const App = () => {
   return(
     <>
     <View style={styles.contenido}>
-        <Animation6 />
+        <Animation7 />
     </View>
     </>
   );
